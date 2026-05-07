@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Good+morning+New+Yorkers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Rubik+Pixels&size=38&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=>_+Good+morning+New+Yorkers" alt="Cyberpunk Particle Greeting" />
 </div>
 
 <br/>
